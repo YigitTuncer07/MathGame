@@ -1,2 +1,2 @@
 # MathGame
-Work in progress
+Work in progress to replace coolmathgames.com
